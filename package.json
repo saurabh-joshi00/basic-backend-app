@@ -1,0 +1,21 @@
+{
+  "name": "01-deploy-backend-in-production",
+  "version": "1.0.0",
+  "description": "a basic backend app to deploy",
+  "keywords": [
+    "javascript",
+    "backend",
+    "node"
+  ],
+  "license": "ISC",
+  "author": "saurabh joshi",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1"
+  }
+}
